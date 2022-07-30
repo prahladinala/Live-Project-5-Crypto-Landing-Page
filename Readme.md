@@ -47,7 +47,7 @@
 
 ## About The Project
 
-![Project 03: Judge Home Page](./readme_assets/Project05.jpeg)
+![Project 05: Crypto Landing Page](./readme_assets/Project05.jpeg)
 
 Here's a project learnt and build the project based on HTML5 and CSS3 only
 
